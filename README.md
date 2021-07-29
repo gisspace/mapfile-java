@@ -1,7 +1,8 @@
 # mapfile-java
 Mapfile Java object
 eg：read mapfile xml
- try
+```
+try
         {
             String xmlPath = "./src/test/resources/mapfile-test.xml";
             final JAXBContext jc = JAXBContext.newInstance("cn.mapserver.mapfile");
@@ -17,3 +18,4 @@ eg：read mapfile xml
         {
             e.printStackTrace();
         }
+```
