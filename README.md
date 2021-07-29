@@ -20,5 +20,5 @@ try
         }
 ```
 
-[MapServer](https://github.com/MapServer/MapServer)
-[MapServer xml](https://github.com/MapServer/MapServer/tree/main/xmlmapfile)
+* [MapServer](https://github.com/MapServer/MapServer)
+* [MapServer xml](https://github.com/MapServer/MapServer/tree/main/xmlmapfile)
